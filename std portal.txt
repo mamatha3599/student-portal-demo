@@ -1,0 +1,4 @@
+student name:chaitra
+student marks:39
+student adddress:gajuwaka,vsp-44
+student id:0302
